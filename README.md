@@ -3,4 +3,4 @@
 Brand assets and digital menu for Saadi Café.
 
 - `img/logo.png`, `img/background.jpg` — logo and brand background
-- `img/saadi-menu-qr.png` — QR code for the menu site
+- `img/saadi-menu-qr.png` — QR code for https://jpvndcrpt2-bit.github.io/saadi-cafe-menu/
